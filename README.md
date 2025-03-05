@@ -5,6 +5,7 @@ In game tablet to view the Info Hub | Created for Raven City Roleplay by The RP 
 **Features**
 - /infohub command
 - Job role restricted
+- Plays scully Emote Menu 2's tablet2 emote when NUI is open
 - Dynamic NUI to fit all resolutions
 - Fontawesome tablet logo using custom kit
 
